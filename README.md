@@ -2,7 +2,7 @@
   <tr>
     <!-- Left GIF section -->
     <td width="45%">
-      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="coding gif">
+      <img src="assets/7eb249f2fd2e58e9ad6dd60ef892971b.gif" width="100%" alt="coding gif">
     </td>
     <td width="55%" valign="top">
       <h2>Hi 👋, I'm Mrunal</h2>
