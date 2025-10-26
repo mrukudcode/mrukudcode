@@ -4,8 +4,6 @@
     <td width="45%">
       <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="coding gif">
     </td>
-    
-    <!-- Right Intro section -->
     <td width="55%" valign="top">
       <h2>Hi 👋, I'm Mrunal</h2>
       <p>A Computer Science student at PESU, driven by curiosity for technology and innovation.</p>
