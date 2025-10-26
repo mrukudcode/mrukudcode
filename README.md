@@ -1,6 +1,25 @@
-## Hi there 👋
+<table>
+  <tr>
+    <!-- Left GIF section -->
+    <td width="45%">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" alt="coding gif">
+    </td>
+    
+    <!-- Right Intro section -->
+    <td width="55%" valign="top">
+      <h2>Hi 👋, I'm Mrunal</h2>
+      <p>A Computer Science student at PESU, driven by curiosity for technology and innovation.</p>
+      <h3>🌐 Connect with me:</h3>
+      <ul>
+        <li>📫 <b>Email:</b> <a href="mailto:mrunalkudtarkar05@gmail.com">mrunalkudtarkar05@gmail.com</a></li>
+        <li>🔵 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mrunal-kudtarkar-6a2259349/" target="_blank">linkedin.com/in/mrunal-kudtarkar-6a2259349/</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Skills
+---
+
 ## 🧠 Languages and Tools:
 
 <p align="left">
@@ -18,7 +37,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="48" height="48" alt="NodeJS" />
 </p>
 
-<!-- Custom Skills Badges -->
 <p align="left">
   <img src="https://img.shields.io/badge/arm-ARM%20Assembly-blue?style=for-the-badge&logo=arm" />
   <img src="https://img.shields.io/badge/Socket%20Programming-00599C?style=for-the-badge&logo=socket.io&logoColor=white" />
